@@ -1,0 +1,48 @@
+cmd
+
+git init
+
+git add .  ( U  A M)
+
+git commit -m "saved"
+
+git config --global user.name "yourname"
+
+git config --global user.mail "abc@aptechgdn.net"
+
+additional infomation
+git branch htbranch // create branch 
+git checkout htbanch // switched branch
+---------------- TO see how many branches you have-----
+git branch -a
+OR
+git branch -t
+==============================
+git merge YourBranchNAme
+============================
+
+login github
+create new repository
+
+git remote add origin https://github.com/SyedMurtazaSaeed/01-FEB-E-PROJECT-2409A.git
+git branch -M main
+git push -u origin main
+==============================
+if want to see github work on git then use pull command
+
+git pull
+=============
+git clone <givenyourRepositoryPath>
+
+
+
+git remote add origin https://github.com/murtazasaeed-eng/14-nov-2025.git
+git branch -M main
+git push -u origin main
+
+What is branch
+TO Check branch 
+>git branch ( show your current branch you have working on it):
+================================================================
+
+
